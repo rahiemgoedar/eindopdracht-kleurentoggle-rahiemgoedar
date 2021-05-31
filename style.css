@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(204, 195, 195);
+}
+
+a {
+   color: black;
+   text-decoration: none;
+   display: inline-block;
+   padding: 14px 25px;
+   border: 2px solid black;
+   background-color: blanchedalmond;
+   margin: 2px;
+   font-family:monospace;
+   font-size: 20px;
+   
+}
+
+.hamburger {
+    width: 50px;
+}
+
+#menu-items {
+    list-style-type: none;
+}
+
+.menu-items-hidden {
+    visibility: hidden;
+}
+
+.menu-items-visible {
+    visibility: visible;
+}
+
+.red-background {
+    background-color: red;
+}
+
+.blue-background {
+    background-color:blue;
+}
+
+.green-background {
+    background-color: green;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: royalblue;
+}
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
